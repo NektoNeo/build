@@ -17,7 +17,7 @@ const Footer = () => {
         Связь с менеджером
       </Button>
       <div className={styles.footerPhone}>
-        11:00-21:00 ЕЖЕДНЕВНО
+        11:00-22:00 ЕЖЕДНЕВНО
       </div>
       </div>
       <div className={styles.footerColumn}>
